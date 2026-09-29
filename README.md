@@ -4,13 +4,13 @@
 
 [![npm version](https://img.shields.io/npm/v/@stackline/types-nlcst.svg?style=flat-square)](https://www.npmjs.com/package/@stackline/types-nlcst)
 [![license](https://img.shields.io/npm/l/@stackline/types-nlcst.svg?style=flat-square)](https://github.com/alexandroit/stackline-types-nlcst)
-[![GitHub repository](https://img.shields.io/badge/GitHub-alexandroit%2Fstackline-types-nlcst-181717?style=flat-square&logo=github)](https://github.com/alexandroit/stackline-types-nlcst)
+[![GitHub repository](https://img.shields.io/badge/GitHub-repository-181717?style=flat-square&logo=github)](https://github.com/alexandroit/stackline-types-nlcst)
 [![Docs](https://img.shields.io/badge/docs-alexandro.net-0f766e?style=flat-square)](https://alexandro.net/docs/vanilla/types-nlcst/)
 [![Reddit community](https://img.shields.io/badge/community-r%2FStackline-ff4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/r/Stackline/)
 
 **[Documentation](https://alexandro.net/docs/vanilla/types-nlcst/)** | **[npm](https://www.npmjs.com/package/@stackline/types-nlcst)** | **[Issues](https://github.com/alexandroit/stackline-types-nlcst/issues)** | **[Repository](https://github.com/alexandroit/stackline-types-nlcst)**
 
-**Current package version:** `1.0.1`
+**Current package version:** `1.0.2`
 
 ---
 
@@ -22,7 +22,7 @@
 
 | Item | Value |
 | :--- | :--- |
-| Package | `@stackline/types-nlcst@1.0.1` |
+| Package | `@stackline/types-nlcst@1.0.2` |
 | API target | `@types/nlcst@1.0.4` |
 | Supported Node.js | `See supported framework requirements` |
 | License | `MIT` |
