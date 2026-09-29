@@ -1,0 +1,22 @@
+{
+  "repository": "alexandroit/stackline-types-nlcst",
+  "packages": [
+    {
+      "name": "@stackline/types-nlcst",
+      "path": "README.md",
+      "version": "1.0.1",
+      "baselineVersion": "1.0.0",
+      "keywords": [
+        "stackline",
+        "npm-package",
+        "types-nlcst",
+        "typescript"
+      ],
+      "homepage": "https://alexandro.net/docs/vanilla/types-nlcst/",
+      "baselineTarball": "https://registry.npmjs.org/@stackline/types-nlcst/-/types-nlcst-1.0.0.tgz",
+      "baselineIntegrity": "sha512-hNdwYHPXiHh3KWCkKvoWin6VFDXQ1VJMcoyAaFwm0dFc7BGayarS3yi9cr7XomxshOw3oTW036Td75x/MZ0iNw==",
+      "expectedSha512": "23d3d877074890a525e6eb650a755e7c5595c498e77a3a48bc5ed76325a21b0cadfd3ef0d2f8f62817c7373a4bef4950399be5603305c83bac9fbf4e15f0508d",
+      "tag": "docs-stackline-types-nlcst-v1.0.1"
+    }
+  ]
+}
