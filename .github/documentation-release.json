@@ -4,7 +4,7 @@
     {
       "name": "@stackline/types-nlcst",
       "path": "README.md",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "baselineVersion": "1.0.0",
       "keywords": [
         "stackline",
@@ -15,8 +15,8 @@
       "homepage": "https://alexandro.net/docs/vanilla/types-nlcst/",
       "baselineTarball": "https://registry.npmjs.org/@stackline/types-nlcst/-/types-nlcst-1.0.0.tgz",
       "baselineIntegrity": "sha512-hNdwYHPXiHh3KWCkKvoWin6VFDXQ1VJMcoyAaFwm0dFc7BGayarS3yi9cr7XomxshOw3oTW036Td75x/MZ0iNw==",
-      "expectedSha512": "23d3d877074890a525e6eb650a755e7c5595c498e77a3a48bc5ed76325a21b0cadfd3ef0d2f8f62817c7373a4bef4950399be5603305c83bac9fbf4e15f0508d",
-      "tag": "docs-stackline-types-nlcst-v1.0.1"
+      "expectedSha512": "369a78d6c9e6ddc11e514d27c0dfaea5a9be8b638904f71e54c272e58976537a49454d0f845ba59b211d79d5d79330fbcbf595348f0df49bc1593d96857a1427",
+      "tag": "docs-stackline-types-nlcst-v1.0.2"
     }
   ]
 }
